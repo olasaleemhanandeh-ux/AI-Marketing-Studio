@@ -83,6 +83,8 @@ Example of AI-generated marketing.
 
 ## Live Demo
 
+Try the application online:
+
 https://ai-marketing-studio-6qj8.onrender.com
 
 ---
