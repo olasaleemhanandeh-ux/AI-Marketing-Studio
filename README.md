@@ -122,7 +122,7 @@ AI-Marketing-Studio/
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/olasaleemhanandeh-ux/AI-Marketing-Studio.git
 
 cd AI-Marketing-Studio
 
