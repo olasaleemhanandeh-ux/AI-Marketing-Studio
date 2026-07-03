@@ -1,4 +1,4 @@
-# AI Marketing Studio 🚀
+# AI Marketing Studio 
 
 AI Marketing Studio is a web application built with Flask that generates high-quality marketing content using Generative AI.
 
