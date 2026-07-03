@@ -81,6 +81,12 @@ Example of AI-generated marketing.
 
 ---
 
+## Live Demo
+
+https://ai-marketing-studio-6qj8.onrender.com
+
+---
+
 ## Project Structure
 
 ```text
